@@ -1,15 +1,15 @@
 {
-    "name": "gamerbit",
-    "version": "0.0.6",
-    "description": "Sparkfun gamer:bit blocks",
+    "name": "Gamebit",
+    "version": "V1.0.0",
+    "description": "ELECFREAKS game:bit package",
     "license": "MIT",
     "dependencies": {
         "core": "*"
     },
     "files": [
         "README.md",
-        "gamerbit.cpp",
-        "gamerbit.ts",
+        "gamebit.cpp",
+        "gamebit.ts",
         "shims.d.ts",
         "enums.d.ts"
     ],
